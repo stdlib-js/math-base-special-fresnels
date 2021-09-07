@@ -108,6 +108,23 @@ for ( i = 0; i < x.length; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/math/base/special/fresnel`][@stdlib/math/base/special/fresnel]: compute the Fresnel integrals S(x) and C(x).
+-   [`@stdlib/math/base/special/fresnelc`][@stdlib/math/base/special/fresnelc]: compute the Fresnel integral C(x).
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 
 <section class="main-repo" >
 
@@ -164,6 +181,14 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-fresnels/main/LICENSE
 
 [fresnel-integral]: https://en.wikipedia.org/wiki/Fresnel_integral
+
+<!-- <related-links> -->
+
+[@stdlib/math/base/special/fresnel]: https://github.com/stdlib-js/math-base-special-fresnel
+
+[@stdlib/math/base/special/fresnelc]: https://github.com/stdlib-js/math-base-special-fresnelc
+
+<!-- </related-links> -->
 
 </section>
 

@@ -65,6 +65,11 @@ Some sources define S(x) using t<sup>2</sup> for the argument of the sine. To ge
 ## Usage
 
 ```javascript
+import fresnels from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fresnels@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/math-base-special-fresnels/tags). For example,
+
+```javascript
 import fresnels from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fresnels@v0.1.0-deno/mod.js';
 ```
 
@@ -101,7 +106,7 @@ v = fresnels( NaN );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import fresnels from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fresnels@v0.1.0-deno/mod.js';
+import fresnels from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fresnels@deno/mod.js';
 
 var x = linspace( 0.0, 10.0, 100 );
 

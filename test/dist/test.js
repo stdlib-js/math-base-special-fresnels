@@ -32,10 +32,10 @@ var fresnels = require( './../../dist' );
 
 // FIXTURES //
 
-var smallPositive = require( './../..xtures/c/cephes/small.json' );
-var mediumPositive = require( './../..xtures/c/cephes/medium.json' );
-var largePositive = require( './../..xtures/c/cephes/large.json' );
-var hugePositive = require( './../..xtures/c/cephes/huge.json' );
+var smallPositive = require( './../fixtures/c/cephes/small.json' );
+var mediumPositive = require( './../fixtures/c/cephes/medium.json' );
+var largePositive = require( './../fixtures/c/cephes/large.json' );
+var hugePositive = require( './../fixtures/c/cephes/huge.json' );
 
 
 // TESTS //

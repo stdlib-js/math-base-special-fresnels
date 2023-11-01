@@ -40,7 +40,7 @@
   "dependencies": {
     "@stdlib/constants-float64-half-pi": "^0.1.1",
     "@stdlib/constants-float64-pi": "^0.1.1",
-    "@stdlib/math-base-special-abs": "^0.1.0",
+    "@stdlib/math-base-special-abs": "^0.1.1",
     "@stdlib/math-base-special-sincos": "^0.1.0"
   },
   "devDependencies": {

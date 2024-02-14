@@ -65,7 +65,7 @@ Some sources define S(x) using t<sup>2</sup> for the argument of the sine. To ge
 ## Usage
 
 ```javascript
-import fresnels from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fresnels@deno/mod.js';
+import fresnels from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fresnels@v0.2.0-deno/mod.js';
 ```
 
 #### fresnels( x )
@@ -101,7 +101,7 @@ v = fresnels( NaN );
 
 ```javascript
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@deno/mod.js';
-import fresnels from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fresnels@deno/mod.js';
+import fresnels from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fresnels@v0.2.0-deno/mod.js';
 
 var x = linspace( 0.0, 10.0, 100 );
 

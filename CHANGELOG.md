@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-02)
+## Unreleased (2025-11-03)
 
 <section class="reverts">
 
@@ -16,12 +16,25 @@
 
 <!-- /.reverts -->
 
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#8358](https://github.com/stdlib-js/stdlib/issues/8358)
+
+</section>
+
+<!-- /.issues -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`f55a8b1`](https://github.com/stdlib-js/stdlib/commit/f55a8b112b7a9a0c103ab4fde4e9c5aef506f509) - **chore:** fix C lint errors [(#8360)](https://github.com/stdlib-js/stdlib/pull/8360) _(by Geo Daoyu)_
 -   [`4a75f6d`](https://github.com/stdlib-js/stdlib/commit/4a75f6df054e6d718e40a37737938996ddd43006) - **revert:** undo commits adding tests for full code coverage _(by Philipp Burckhardt)_
 -   [`76a39f5`](https://github.com/stdlib-js/stdlib/commit/76a39f526428dc933cb6a16d1b05037173fe6c81) - **test:** add tests for full coverage _(by Philipp Burckhardt)_
 -   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
@@ -39,8 +52,9 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Geo Daoyu
 -   Karan Anand
 -   Philipp Burckhardt
 

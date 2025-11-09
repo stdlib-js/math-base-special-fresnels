@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-03)
+## Unreleased (2025-11-09)
 
 <section class="reverts">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`9f43b73`](https://github.com/stdlib-js/stdlib/commit/9f43b73f1784481589a925faec34cfbbd3053c47) - **chore:** add structured package data for `math/base/special/fresnels` [(#8450)](https://github.com/stdlib-js/stdlib/pull/8450) _(by Payal Goswami, Athan Reines)_
 -   [`f55a8b1`](https://github.com/stdlib-js/stdlib/commit/f55a8b112b7a9a0c103ab4fde4e9c5aef506f509) - **chore:** fix C lint errors [(#8360)](https://github.com/stdlib-js/stdlib/pull/8360) _(by Geo Daoyu)_
 -   [`4a75f6d`](https://github.com/stdlib-js/stdlib/commit/4a75f6df054e6d718e40a37737938996ddd43006) - **revert:** undo commits adding tests for full code coverage _(by Philipp Burckhardt)_
 -   [`76a39f5`](https://github.com/stdlib-js/stdlib/commit/76a39f526428dc933cb6a16d1b05037173fe6c81) - **test:** add tests for full coverage _(by Philipp Burckhardt)_
@@ -52,10 +53,12 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Geo Daoyu
 -   Karan Anand
+-   Payal Goswami
 -   Philipp Burckhardt
 
 </section>
